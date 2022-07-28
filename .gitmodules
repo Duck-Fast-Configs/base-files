@@ -1,0 +1,24 @@
+[submodule "base-projects/csharp-base"]
+	path = base-projects/csharp-base
+	url = git@github.com:Duck-Fast-Configs/csharp-base.git
+[submodule "base-projects/java-base"]
+	path = base-projects/java-base
+	url = git@github.com:Duck-Fast-Configs/java-base.git
+[submodule "base-projects/nodejs-base"]
+	path = base-projects/nodejs-base
+	url = git@github.com:Duck-Fast-Configs/nodejs-base.git
+[submodule "base-projects/php-base"]
+	path = base-projects/php-base
+	url = git@github.com:Duck-Fast-Configs/php-base.git
+[submodule "base-projects/python-base"]
+	path = base-projects/python-base
+	url = git@github.com:Duck-Fast-Configs/python-base.git
+[submodule "base-projects/rust-base"]
+	path = base-projects/rust-base
+	url = git@github.com:Duck-Fast-Configs/rust-base.git
+[submodule "base-projects-dbms-webserver/php-base-mariadb-nginx"]
+	path = base-projects-dbms-webserver/php-base-mariadb-nginx
+	url = git@github.com:Duck-Fast-Configs/php-base-mariadb-nginx.git
+[submodule "base-projects-dbms-webserver/php-base-pgsql-nginx"]
+	path = base-projects-dbms-webserver/php-base-pgsql-nginx
+	url = git@github.com:Duck-Fast-Configs/php-base-pgsql-nginx.git
